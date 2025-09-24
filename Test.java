@@ -2,5 +2,7 @@ public class Test{
     public static void main(String[] args) {
         System.out.println("Hai ini baris kode pertama saya");
         System.out.println("edit by sakti");
+        
+        System.out.println("edit by AhmadSubkhi");
     }
 }
